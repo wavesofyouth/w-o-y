@@ -2,3 +2,7 @@
    font-family: 'Roboto-Black';
    src: url('Roboto-Black/font.ttf');
 }
+@font-face {
+   font-family: 'Roboto-BlackItalic';
+   src: url('Roboto-BlackItalic/font.ttf');
+}
