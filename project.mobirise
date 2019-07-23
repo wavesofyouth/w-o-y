@@ -35,6 +35,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "google-analytics": "",
     "uniqCompNum": 1,
     "versionPublish": "4.10.1"
   },
@@ -42,7 +46,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "W-O-Y",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
