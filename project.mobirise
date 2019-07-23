@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Roboto-Black",
         "display1Size": 4.25,
         "display2Font": "Rubik",
         "display2Size": 3,
@@ -35,7 +35,19 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
+      },
+      {
+        "css": "'Roboto-Black'",
+        "name": "Roboto-Black",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Roboto-Black/font.ttf"
+      }
+    ],
     "favicon": "@PROJECT_PATH@/assets/images/2020-bp-128x128-1.png",
     "noImageResize": "true",
     "siteUrl": "undefined",
