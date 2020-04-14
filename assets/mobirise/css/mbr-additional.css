@@ -597,7 +597,8 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section) {
+.lazy-placeholder:not(section),
+.lazy-none {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -634,15 +635,95 @@ section.lazy-placeholder:after {
 .cid-rCeVQr60W8 H3 {
   text-align: left;
 }
-.cid-rCeV4c6OEg {
-  background: #ffffff;
+.cid-rW8dyVyZPl {
+  background: #000000;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
-.cid-rCeV4c6OEg .video-block {
+.cid-rW8dyVyZPl .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rCeV4c6OEg .video-block {
+  .cid-rW8dyVyZPl .video-block {
     width: 100% !important;
   }
+}
+.cid-rW8dBHovv9 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rW8dBHovv9 .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rW8dBHovv9 .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-rW8dBHovv9 .media-wrap img {
+  height: 6rem;
+}
+.cid-rW8dBHovv9 .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rW8dBHovv9 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rW8dBHovv9 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-rW8dBHovv9 .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-rW8dBHovv9 .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-rW8dBHovv9 .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rW8dBHovv9 .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rW8dBHovv9 .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rW8dBHovv9 .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rW8dBHovv9 .links {
+  color: #263f8c;
+}
+.cid-rW8dBHovv9 .copyright > p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rW8dBHovv9 .links B {
+  color: #263f8c;
+}
+.cid-rW8dBHovv9 .copyright > p I {
+  color: #263f8c;
+}
+.cid-rW8dBHovv9 .links A {
+  color: #263f8c;
 }
