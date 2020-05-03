@@ -731,3 +731,95 @@ section.lazy-placeholder:after {
 .cid-rW8dBHovv9 .links A {
   color: #263f8c;
 }
+.cid-rXXhG69QvB {
+  background: #000000;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.cid-rXXhG69QvB .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rXXhG69QvB .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rXXhG6txKJ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-rXXhG6txKJ .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rXXhG6txKJ .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-rXXhG6txKJ .media-wrap img {
+  height: 6rem;
+}
+.cid-rXXhG6txKJ .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rXXhG6txKJ .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rXXhG6txKJ .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-rXXhG6txKJ .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-rXXhG6txKJ .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-rXXhG6txKJ .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rXXhG6txKJ .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rXXhG6txKJ .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rXXhG6txKJ .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rXXhG6txKJ .links {
+  color: #263f8c;
+}
+.cid-rXXhG6txKJ .copyright > p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rXXhG6txKJ .links B {
+  color: #263f8c;
+}
+.cid-rXXhG6txKJ .copyright > p I {
+  color: #263f8c;
+}
+.cid-rXXhG6txKJ .links A {
+  color: #263f8c;
+}
